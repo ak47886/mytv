@@ -363,56 +363,68 @@
       ]
     }
   ],
- "parses": [
+"parses": [
     {
-      "name": "聚合",
+      "name": "json聚合",
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "解析",
-      "type": 2,
-      "url": "Parallel"
+	{
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
     },
-    {
+   {
       "name": "keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext":
-       {
-        "header":
-         {
+      "ext": {
+        "header": {
           "User-Agent": "okhttp/4.1.0"
-         }
-       }
-    },
-    
-    {
-        "name":"融兴",
-        "type":1,
-        "url":"https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="
+        }
+      }
     },
     {
-		"name": "GGTV",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+      "name": "江湖",
+      "type": 1,
+      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     },
     {
-         "name":"江湖",
-         "type":1,
-         "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="
+      "name": "rx2",
+      "type": 1,
+      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
-    {"name":"手1","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
-    {"name":"手2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-    {"name":"手3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
     {
-      "name": "手4",
+      "name": "BT5V",
+      "type": 1,
+      "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "手1",
       "type": 0,
-      "url": "https://okjx.cc/?url="
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "手2",
+      "type": 0,
+      "url": "https://freejx.rx88.top:1234/?url="
+    },
+    {
+      "name": "手3",
+      "type": 0,
+      "url": "https://vip.bljiex.com/?v="
     }
-
   ],
- 
   "flags": [
     "youku",
     "qq",
