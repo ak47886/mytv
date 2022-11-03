@@ -1,6 +1,15 @@
 {
   "sites": [
-    {
+     {
+      "key": "T4",
+      "name": "🐞搜索〔T4〕",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	{
       "key": "360_spider",
       "name": "📺360〔SP〕",
       "type": 3,
@@ -222,7 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": ".\XYQBiu\剧荒电影.json"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/剧荒电影.json"
     },
     {
       "key": "csp_biubiu_WMKK",
@@ -232,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://share.nite07.com/api/v3/file/source/19137/wmkk.json?sign=SmjBz3r7Dd_WnQRYp2Gaj2b13fPVWUWCYFbz9SpWCZ4%3D%3A0"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/wmkk.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -242,7 +251,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://share.nite07.com/api/v3/file/source/5589/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json?sign=Ce9KiI1cgzkgM3AERAo-775efaqXk1zh9Zm_-H2cj0c%3D%3A0"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/影视工厂.json"
     },
     {
       "key": "蓝光影院",
@@ -252,7 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://share.nite07.com/api/v3/file/source/18282/lgyy.json?sign=nVLO571juQ0iGAfyk4Od50sW3L2sqc15hsi7TwdSvZI%3D%3A0"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/lgyy.json"
     },
    
     {
@@ -274,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://share.nite07.com/api/v3/file/source/5585/555.json?sign=b-N4o1sgDVmsVo9n81NYreBZs21VoM2AsZxFkTKgXjE%3D%3A0"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/555.json"
     },
     {
       "key": "csp_biubiu_奇优影院ns",
@@ -284,7 +293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://share.nite07.com/api/v3/file/source/5587/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2%28ns%29.json?sign=Z7hyfyUcxt9yUJcnD8k9NGU_hfw28E0-ug5fWi6vCgI%3D%3A0"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/奇优影院(ns).json"
     },
     {
       "key": "csp_biubiu_黑狐影视ns",
@@ -294,29 +303,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://share.nite07.com/api/v3/file/source/5592/%E9%BB%91%E7%8B%90%E5%BD%B1%E8%A7%86%28ns%29.json?sign=itAfpUQBxMSCYurkKqAc2FdqQTdMc8L9pwPgxSAf1iw%3D%3A0"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/黑狐影视(ns).json"
     },
     
     
-     {
-      "key": "bdys",
-      "name": "🧃哔嘀〔CL〕",
-      "type": 3,
-      "api": "csp_XPbd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://share.nite07.com/api/v3/file/source/18501/Bdys.json?sign=accp99M9kYPRHjuHH-QyRiuihkEwdKJI_J6InZLtJKk%3D%3A0"
-    },
-    {
-      "key": "T4",
-      "name": "🐞搜索〔T4〕",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
+   
     {
       "key": "zhaozy",
       "name": "💦找源〔搜〕",
