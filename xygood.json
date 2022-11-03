@@ -215,8 +215,8 @@
       ]
     }
   ],
-  "parses": [
-   {
+ "parses": [
+    {
       "name": "json聚合",
       "type": 3,
       "url": "Demo"
@@ -226,86 +226,56 @@
       "type": 3,
       "url": "Web"
     },
-  
-  {
-   "name": "BT5V",
-   "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
-   "type": 1,
-   "ext": {
-    "header": {
-     "User-Agent": "Mozilla/5.0"
-    }
-   }
-  },
    {
       "name": "keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext":
-       {
-        "header":
-         {
+      "ext": {
+        "header": {
           "User-Agent": "okhttp/4.1.0"
-         }
-       }
+        }
+      }
     },
-  {
-   "name": "CY",
-   "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
-   "type": 1,
-   "ext": {
-    "header": {
-     "User-Agent": "Mozilla/5.0"
-    }
-   }
-  },
-
-   
-    
     {
-      "name":"江湖",
-      "type":1,
-      "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="
+      "name": "江湖",
+      "type": 1,
+      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     },
-	  {
-      "name":"rx2",
-      "type":1,
-      "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+    {
+      "name": "rx2",
+      "type": 1,
+      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
-	{
-   "name": "江湖",
-   "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
-   "type": 1,
-   "ext": {
-    "header": {
-     "User-Agent": "Mozilla/5.0"
-    }
-   }
-  },
-	{
-   "name": "左岸",
-   "url": "https://jx.bozrc.com:4433/player/?url=",
-   "type": 0,
-   "ext": {
-    "header": {
-     "User-Agent": "Mozilla/5.0"
-    }
-   }
-  },
-
-    {"name":"手1","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-    {"name":"手2","type":0,"url":"https://freejx.rx88.top:1234/?url="},
+    {
+      "name": "BT5V",
+      "type": 1,
+      "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "手1",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "手2",
+      "type": 0,
+      "url": "https://freejx.rx88.top:1234/?url="
+    },
     {
       "name": "手3",
       "type": 0,
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "手4",
-      "type": 0,
       "url": "https://vip.bljiex.com/?v="
     }
-
   ],
   "flags": [
     "youku",
