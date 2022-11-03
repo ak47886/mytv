@@ -317,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
     },
     {
       "key": "csp_Yiso",
@@ -327,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
     },
     {
       "key": "AliPS",
@@ -337,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
     },
     {
       "key": "push_agent2",
@@ -347,7 +347,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
     }
   ],
   "lives": [
