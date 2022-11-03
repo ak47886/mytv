@@ -1,5 +1,5 @@
 {
-"spider": "./bao/top97.jar",  
+"spider": "https://raw.iqiq.io/ak47886/mytv/main/bao/top97.jar",  
 
 "sites": [
 
@@ -43,14 +43,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "./bao/ts1028.txt"
+	  "jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"
     },
-	{"key":"Yanet","name":"奶飞影视〔SP〕","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1,"jar": "./bao/ts1028.txt"},
-   {"key":"Lgyy","name":"蓝光影院〔SP〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "./bao/ts1028.txt"},
-   {"key":"Smdyy","name":"神马影院〔SP〕","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "./bao/ts1028.txt"},
-   {"key":"Ddys","name":"低端影视〔SP〕","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./bao/ts1028.txt"},
+	{"key":"Yanet","name":"奶飞影视〔SP〕","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"},
+   {"key":"Lgyy","name":"蓝光影院〔SP〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"},
+   {"key":"Smdyy","name":"神马影院〔SP〕","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"},
+   {"key":"Ddys","name":"低端影视〔SP〕","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"},
    
-   {"key":"IKan","name":"爱看影视〔SP〕","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./bao/ts1028.txt"},
+   {"key":"IKan","name":"爱看影视〔SP〕","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"},
 	{
       "key": "drpy_js_酷云77",
       "name": "酷云七七〔DR〕",
@@ -107,7 +107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "./bao/ts1028.txt"
+	  "jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"
     },
 	{
       "key": "AppTT",
@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "./bao/ts1028.txt"
+	  "jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"
     },
 	{
       "key": "csp_apple",
@@ -127,7 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "./bao/ts1028.txt"
+	  "jar": "https://raw.iqiq.io/ak47886/mytv/main/bao/ts1028.txt"
     },
 	{
       "key": "csp_xb_ysgc",
@@ -255,7 +255,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./biubiu/黑狐影视(ns).json"
+      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/黑狐影视(ns).json"
     },
   
     
@@ -310,7 +310,7 @@
       "quickSearch": 0,
       "filterable": 0,
        "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_ali.py"
-    }，
+    },
    {
       "key": "py_alist",
       "name": "云盘汇总〔PY〕",
