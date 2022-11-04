@@ -1,205 +1,145 @@
 {
-  "sites": [
+
+"sites": [
+	
+    {
+      "key": "drpy_js_360影视",
+      "name": "三六影视〔DR〕",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
+    },
+	
      {
-      "key": "T4",
-      "name": "🐞搜索〔T4〕",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=10",
+      "key": "drpy_js_百忙无果",
+      "name": "百忙无果〔DR〕",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
+    },
+   
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "奇珍异兽〔DR〕",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾云驾雾〔DR〕",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"
+    },
+
+	{
+      "key": "drpy_js_酷云77",
+      "name": "酷云七七〔DR〕",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"
+    },
+    
+    {
+      "key": "py_czspp",
+      "name": "厂长资源〔PY〕",
+      "type": 3,
+      "api": "py_czspp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_czspp.py"
     },
 	{
-      "key": "360_spider",
-      "name": "📺360〔SP〕",
+      "key": "py_yixi",
+      "name": "一席访谈〔PY〕",
       "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_MGTV",
-      "name": "🍋芒果〔SP〕",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_kuaikan",
-      "name": "👀快看〔SP〕",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   
-    {
-      "key": "csp_77",
-      "name": "🎬七七〔SP〕",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "👷厂长〔SP〕",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lezhu_spider",
-      "name": "🐖乐猪〔SP〕",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   
-   
-  
-    {
-      "key": "csp_Bili",
-      "name": "🅱哔哩〔SP〕",
-      "type": 3,
-      "api": "csp_Bili",
+      "api": "py_yixi",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./biubiu/Bili.json"
-    },
-   
-  
-   
-    {
-      "key": "csp_XYQBiu_影视工厂",
-      "name": "🍹Ysgc〔XY〕",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQBiu/影视工厂.json"
-    },
-    
-    {
-      "key": "万能影院(XYQ)",
-      "name": "⚓万能〔XY〕",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XYQBiu/万能影院.json"
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_yixi.py"
     },
 	{
-      "key": "剧荒影院(XYQ)",
-      "name": "🥤剧荒〔XY〕",
+      "key": "py_cctv",
+      "name": "央视综艺〔PY〕",
       "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XYQBiu/剧荒电影.json"
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_cctv.py"
     },
-    {
-      "key": "歪片星球",
-      "name": "🛸歪片〔XY〕",
+	{
+      "key": "py_bilimd",
+      "name": "哔哩影视〔PY〕",
       "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XYQBiu/歪片星球.json"
-    },
-    {
-      "key": "多多",
-      "name": "🍷多多〔CJ〕",
-      "type": 1,
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "api": "py_bilimd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "国产剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "科幻片",
-        "喜剧片",
-        "恐怖片",
-        "战争片",
-        "爱情片",
-        "剧情片",
-        "日韩剧",
-        "港台剧",
-        "欧美剧"
-      ]
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_bilimd.py"
     },
-     
+
+ 
    
-    {
-      "key": "csp_biubiu_影视工厂",
-      "name": "🏭Ysgc〔XB〕",
+   {
+      "key": "drpy_js_猫了个咪",
+      "name": "猫了个咪〔DR〕",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/猫了个咪.js"
+    },
+   {
+		"key": "py_gitcafe",
+		"name": "小小纸条〔PY〕",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_gitcafe.py"
+	},
+	{
+      "key": "py_yunso",
+      "name": "云搜资源〔PY〕",
+      "type": 3,
+      "api": "py_yunso",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./biubiu/影视工厂.json"
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_yunso.py"
     },
-    {
-      "key": "蓝光影院",
-      "name": "🌈蓝光〔XB〕",
+	{
+		"key": "py_zhaozy",
+		"name": "找找资源〔PY〕",
+		"type": 3,
+		"api": "py_zhaozy",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/plugin/py_zhaozy.py"
+	},
+	{
+      "key": "push_agent",
+      "name": "阿里推送〔PY〕",
       "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./biubiu/lgyy.json"
-    },
-    
-    {
-      "key": "csp_biubiu_饭团",
-      "name": "💙饭团〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": " {\r\n  \"name\": \"饭团高清\",\r\n  \"url\": \"https://www.fantuanhd.com\",\r\n  \"User\": \"User-Agent:Dart/2.14 (dart:io)\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"电视剧$/show/id-21/page/#电影$/show/id-20/page/#综艺$/show/id-22/page/#动漫$/show/id-23/page/\",\r\n  \"houzhui\": \".html\",\r\n  \"shifouercijiequ\": \"0\",\r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\",\r\n  \"jiequshuzuqian\": \"class=\\\"stui-vodlist__box\\\">\",\r\n  \"jiequshuzuhou\": \"</span>\",\r\n  \"tupianqian\": \"data-original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"//detail/id-\",\r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"zhuangtaiqian\": \"更新：\",\r\n  \"zhuangtaihou\": \"</p>\",\r\n  \"daoyanqian\": \"导演：\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"主演：\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"简介：\",\r\n  \"juqinghou\": \"</p>\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"play-item cont\",\r\n  \"bfjiequshuzuhou\": \"</div>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<li\",\r\n  \"bfyjiequshuzuhou\": \"</li>\",\r\n  \"bfbiaotiqian\": \"html\\\">\",\r\n  \"bfbiaotihou\": \"</a>\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}"
-    },
-    
-   
-    {
-      "key": "zhaozy",
-      "name": "💦找源〔搜〕",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
-    },
-   
-    {
-      "key": "push_agent2",
-      "name": "📽️推送〔投〕",
-      "type": 3,
-      "api": "csp_PushAgent",
+      "api": "py_ali",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
+       "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_ali.py"
+    },
+   {
+      "key": "py_alist",
+      "name": "云盘汇总〔PY〕",
+      "type": 3,
+      "api": "py_gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_alist.py"
     }
   ],
   "lives": [
@@ -215,7 +155,7 @@
       ]
     }
   ],
- "parses": [
+"parses": [
     {
       "name": "json聚合",
       "type": 3,
@@ -532,6 +472,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "spider": "./bao/jh0903.jar"
+  ]
 }
