@@ -1,13 +1,13 @@
 {
   "sites": [
      {
-      "key": "T4",
-      "name": "🐞搜索〔T4〕",
+      "key": "T4_douban",
+      "name": "🐞豆瓣〔T4〕",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=10",
+      "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
 	{
       "key": "360_spider",
@@ -104,7 +104,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/Bili.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/Bili.json"
     },
     {
             "key": "知识",
@@ -167,7 +167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/影视工厂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/XYQBiu/影视工厂.json"
     },
     {
       "key": "csp_XYQBiu_555影视",
@@ -177,7 +177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/555dy.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/XYQBiu/555dy.json"
     },
     {
       "key": "万能影院(XYQ)",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/万能影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/XYQBiu/万能影院.json"
     },
     {
       "key": "歪片星球",
@@ -197,7 +197,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/歪片星球.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/XYQBiu/歪片星球.json"
     },
     {
       "key": "多多",
@@ -231,7 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/剧荒电影.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/XYQBiu/剧荒电影.json"
     },
     {
       "key": "csp_biubiu_WMKK",
@@ -241,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/wmkk.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/wmkk.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -251,7 +251,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/影视工厂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/影视工厂.json"
     },
     {
       "key": "蓝光影院",
@@ -261,7 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/lgyy.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/lgyy.json"
     },
    
     {
@@ -283,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/555.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/555.json"
     },
     {
       "key": "csp_biubiu_奇优影院ns",
@@ -293,7 +293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/奇优影院(ns).json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/奇优影院(ns).json"
     },
     {
       "key": "csp_biubiu_黑狐影视ns",
@@ -303,13 +303,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/黑狐影视(ns).json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/biubiu/黑狐影视(ns).json"
     },
     
     
    
    
-    {
+     {
       "key": "zhaozy",
       "name": "💦找源〔搜〕",
       "type": 3,
@@ -317,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
     {
       "key": "csp_Yiso",
@@ -327,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
     {
       "key": "AliPS",
@@ -337,18 +337,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
-    {
-      "key": "push_agent2",
-      "name": "📽️推送〔投〕",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
-    }
+	
+	{"key":"push_agent"     ,"name":"📽️推送〔投〕","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"}
+
+    
   ],
   "lives": [
     {
@@ -378,16 +372,18 @@
       "name": "keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext": {
-        "header": {
+      "ext":
+       {
+        "header":
+         {
           "User-Agent": "okhttp/4.1.0"
-        }
-      }
+         }
+       }
     },
-    {
-      "name": "江湖",
+   {
+      "name": "vipmv",
       "type": 1,
-      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+      "url": "http://jx.vipmv.co/json.php?token=123457&url="
     },
     {
       "name": "rx2",
@@ -395,35 +391,48 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "BT5V",
+      "name": "lanlan",
       "type": 1,
-      "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "url": "http://123.57.56.94:9931/lanlan/?url="
     },
-    {
-      "name": "手1",
+	    
+
+{
+      "name": "xmflv",
       "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "手2",
+      "name": "freejson",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    },
+   {
+      "name": "okjx",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "rx88",
       "type": 0,
       "url": "https://freejx.rx88.top:1234/?url="
     },
     {
-      "name": "手3",
+      "name": "bljiex",
       "type": 0,
       "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "萝卜",
+      "type": 0,
+      "url": "https://ys.lbbb.cc/?url="
+    },
+    {
+      "name": "8090",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
     }
+
   ],
   "flags": [
     "youku",
@@ -681,5 +690,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://raw.iqiq.io/ak47886/mytv/main/bao/jh0903.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/mytv/main/bao/jh0903.jar"
 }
